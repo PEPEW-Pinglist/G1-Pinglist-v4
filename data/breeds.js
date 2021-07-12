@@ -1,3 +1,5 @@
+//WHY THE FUCK ARE THERE NO COMMENTS ANYWHERE
+//first comment pepega
 module.exports = [
   {
     name: 'Banescale',
