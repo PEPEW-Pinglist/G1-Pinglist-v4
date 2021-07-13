@@ -30,5 +30,9 @@ module.exports = [
   {
     name: 'Grab bags and other RNG',
     do_require_dragons: false,
-  }
+  }, //everything list is not supported yet
+  {
+    name: 'Everything',
+    do_require_dragons: false,
+  },
 ];

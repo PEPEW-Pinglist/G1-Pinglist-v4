@@ -1,3 +1,4 @@
+<!--Not fully developed, not shown on page -->
 <template>
   <div class="bg-indigo-300 rounded-lg p-3 text-left ring-4 ring-indigo-300">
     <br/>

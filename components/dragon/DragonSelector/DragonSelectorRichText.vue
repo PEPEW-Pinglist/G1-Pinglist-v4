@@ -1,3 +1,5 @@
+<!--copy + paste dragon profile parser -->
+
 <template>
   <div class="bg-indigo-300 rounded-lg  p-3 text-left ring-4 ring-indigo-300">
     <h1 class="text-2xl text-indigo-800 font-light">Select Dragons</h1>

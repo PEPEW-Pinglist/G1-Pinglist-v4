@@ -3,7 +3,7 @@
     <Nuxt />
   </div>
 </template>
-
+<!-- default style of the landing page-->
 <style>
 html {
   font-family:

@@ -1,3 +1,5 @@
+<!-- landing page for g1 pinglist (pinglist generator) -->
+
 <template>
   <div>
     <h1 class="text-3xl text-indigo-500 font-light">G1 Pinglist</h1>
